@@ -1,10 +1,8 @@
 # Flask/MySQL Setup
 
-## Clone this repo
+## Clone the copy of this repo to your local machine.
 
-```zsh
-git clone https://github.com/cmderobertis/flask_template.git
-```
+First, you'll need to click the green button "Use this template" and name your repo whatever you want for your project. Then, clone your newly created repository to your computer using ```git clone```
 
 ## Install Flask and PyMySQL
 
